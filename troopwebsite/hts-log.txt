@@ -1,0 +1,32 @@
+HTTrack3.49-2 launched on Wed, 04 May 2022 22:19:02 at http://bsatroop681.org
+(winhttrack http://bsatroop681.org -O "/Users/Scott/websites/troopwebsite" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:20:06	Warning: 	Link bsatroop681.org/menu_files/filelist.xml not scanned (follow robots meta tag)
+22:37:42	Warning: 	Link bsatroop681.org/welcome_files/filelist.xml not scanned (follow robots meta tag)
+22:37:42	Warning: 	Link bsatroop681.org/welcome_files/editdata.mso not scanned (follow robots meta tag)
+22:37:42	Warning: 	Link bsatroop681.org/GeneratedItems/CSScriptLib.js not scanned (follow robots meta tag)
+22:37:42	Warning: 	Link bsatroop681.org/01whatsnew_files/filelist.xml not scanned (follow robots meta tag)
+22:37:42	Warning: 	Link bsatroop681.org/01whatsnew_files/editdata.mso not scanned (follow robots meta tag)
+22:37:42	Warning: 	Link bsatroop681.org/Troop 681.data/Components/logobar.html not scanned (follow robots meta tag)
+22:37:42	Warning: 	Link bsatroop681.org/04linksreferences_files/filelist.xml not scanned (follow robots meta tag)
+22:37:42	Warning: 	Link bsatroop681.org/04linksreferences_files/editdata.mso not scanned (follow robots meta tag)
+22:37:42	Warning: 	Link bsatroop681.org/04linksscoutgroups_files/filelist.xml not scanned (follow robots meta tag)
+22:37:42	Warning: 	Link bsatroop681.org/04linksscoutgroups_files/editdata.mso not scanned (follow robots meta tag)
+22:53:32	Warning: 	Link bsatroop681.org/05advancement_files/filelist.xml not scanned (follow robots meta tag)
+22:53:32	Warning: 	Link bsatroop681.org/05advancement_files/editdata.mso not scanned (follow robots meta tag)
+22:53:32	Warning: 	Link bsatroop681.org/05life_to_eagle_faq_files/filelist.xml not scanned (follow robots meta tag)
+22:53:32	Warning: 	Link bsatroop681.org/05life_to_eagle_faq_files/editdata.mso not scanned (follow robots meta tag)
+22:53:32	Warning: 	Link bsatroop681.org/05linksadvancement_files/filelist.xml not scanned (follow robots meta tag)
+22:53:32	Warning: 	Link bsatroop681.org/05linksadvancement_files/editdata.mso not scanned (follow robots meta tag)
+22:53:32	Warning: 	Link bsatroop681.org/05nesa_files/filelist.xml not scanned (follow robots meta tag)
+22:53:32	Warning: 	Link bsatroop681.org/05nesa_files/editdata.mso not scanned (follow robots meta tag)
+22:53:32	Warning: 	Link bsatroop681.org/06contacttroop_files/filelist.xml not scanned (follow robots meta tag)
+22:53:32	Warning: 	Link bsatroop681.org/06contacttroop_files/editdata.mso not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 34 minutes 30 seconds : 79 links scanned, 78 files written (37291047 bytes overall) [37001317 bytes received at 17875 bytes/sec], 463665 bytes transferred using HTTP compression in 52 files, ratio 31%
+(No errors, 21 warnings, 0 messages)
